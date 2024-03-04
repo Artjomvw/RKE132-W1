@@ -1,0 +1,14 @@
+C:\Users\kraat\source\repos\Appnr1\Appnr1\bin\Debug\net8.0\Appnr1.exe
+C:\Users\kraat\source\repos\Appnr1\Appnr1\bin\Debug\net8.0\Appnr1.deps.json
+C:\Users\kraat\source\repos\Appnr1\Appnr1\bin\Debug\net8.0\Appnr1.runtimeconfig.json
+C:\Users\kraat\source\repos\Appnr1\Appnr1\bin\Debug\net8.0\Appnr1.dll
+C:\Users\kraat\source\repos\Appnr1\Appnr1\bin\Debug\net8.0\Appnr1.pdb
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.AssemblyInfoInputs.cache
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.AssemblyInfo.cs
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.csproj.CoreCompileInputs.cache
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.dll
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\refint\Appnr1.dll
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.pdb
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\Appnr1.genruntimeconfig.cache
+C:\Users\kraat\source\repos\Appnr1\Appnr1\obj\Debug\net8.0\ref\Appnr1.dll
